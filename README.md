@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @K1RUN
 - 👀 I’m interested in Math and Algorithms
 - 🧠 I used to code on Python and C++.
-- 📫 How to reach me - https://t.me/skatebird
+- 📫 How to reach me - https://t.me/samsep1
